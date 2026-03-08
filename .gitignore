@@ -1,0 +1,24 @@
+# Compiled code - auto-generated, not needed
+target/
+
+# Secret passwords - NEVER upload this
+.env
+
+# Runtime files
+logs/
+uploads/
+*.log
+
+# IDE folders (personal settings, not needed)
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# contains maven rapper
+.mvn/
+mvnw
+mvnw.cmd
